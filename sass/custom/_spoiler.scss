@@ -1,0 +1,15 @@
+.octopress-spoiler-tag {
+
+   margin-bottom: 20px;
+   display: inline-block;
+   background: grey;
+   color: grey;
+
+
+   &:hover {
+      background: none;
+      color: black;
+
+   }
+
+}
