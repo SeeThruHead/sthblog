@@ -75,7 +75,7 @@ About
 Portfolio
 Contact
 ```
-And then hit Control + Shift + Enter you'll get a little dialog box like you would with Control + W. You can then enter a chain of emmet abbreviations and whichever element you append an `*` to will be generated around each line. (Click the link above for a beautiful animated gif of it in action).
+And then hit Control + Alt + Enter you'll get a little dialog box like you would with Control + W. You can then enter a chain of emmet abbreviations and whichever element you append an `*` to will be generated around each line. (Click the link above for a beautiful animated gif of it in action).
 
 Now to make things even crazier you can refer to the contents of each line by using `$#` which makes it possible to do some really crazy stuff if you know what you're doing.
 
